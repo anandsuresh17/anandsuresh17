@@ -28,7 +28,7 @@ I enjoy building practical web applications using **Python, Django, SQL, JavaScr
 **Tools**
 
 * Git
-* GitHub
+* AI Tools
 * VS Code
 
 ---
@@ -51,7 +51,6 @@ A Django-based educational academy website featuring student registration, authe
 ## 📈 What I'm Working On
 
 * Building full-stack applications with Django
-* Improving frontend development skills
 * Developing REST APIs
 * Exploring practical applications of AI tools in software development
 * Strengthening problem-solving and software engineering fundamentals
