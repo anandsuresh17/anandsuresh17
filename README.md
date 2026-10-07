@@ -7,7 +7,7 @@ Building practical web applications using **Python, Django, SQL, JavaScript, HTM
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 **Languages & Frameworks**
 
@@ -32,22 +32,22 @@ Building practical web applications using **Python, Django, SQL, JavaScript, HTM
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🏥 SaaS Hospital Management System
+### SaaS Hospital Management System
 
 A Django-based SaaS application designed to manage hospital operations, including hospitals, departments, doctors, patients, appointments, medical records, prescriptions, lab reports, invoices, and subscriptions.
 
 **Tech:** Python · Django · SQL
 
-### 🎓 Scope India
+###  Scope India
 
 A Django-based educational academy website featuring student registration, authentication, email verification, student profiles, course enrollment, and dashboards.
 
 **Tech:** Python · Django · HTML · CSS · JavaScript · SQLite
 
 
-## 📈 What I'm Working On
+## What I'm Working On
 
 * Building full-stack applications with Django
 * Developing REST APIs
