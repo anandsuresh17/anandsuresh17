@@ -1,10 +1,9 @@
 # Hi, I'm Anand Suresh 👋
 
 ### Python Full Stack Developer | Django | Web Development
+I'm a B.Tech Electrical & Electronics Engineering student and a fresher focused on Python-based full-stack web development.
+Building practical web applications using **Python, Django, SQL, JavaScript, HTML, and CSS**, while continuously improving my understanding of software development and modern AI-assisted development tools.
 
-I'm a B.Tech Electrical & Electronics Engineering graduate and a fresher focused on Python-based full-stack web development.
-
-I enjoy building practical web applications using **Python, Django, SQL, JavaScript, HTML, and CSS**, while continuously improving my understanding of software development and modern AI-assisted development tools.
 
 ---
 
