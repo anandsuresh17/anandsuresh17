@@ -1,4 +1,4 @@
-# Hi, I'm Anand Suresh 👋
+# Hi, I'm Anand Suresh 
 
 ### Python Full Stack Developer | Django | Web Development
 I'm a B.Tech Electrical & Electronics Engineering student and a fresher focused on Python-based full-stack web development.
