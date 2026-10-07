@@ -1,16 +1,77 @@
-## Hi there 👋
+# Hi, I'm Anand Suresh 👋
 
-<!--
-**anandsuresh17/anandsuresh17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Full Stack Developer | Django | Web Development
 
-Here are some ideas to get you started:
+I'm a B.Tech Electrical & Electronics Engineering graduate and a fresher focused on Python-based full-stack web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical web applications using **Python, Django, SQL, JavaScript, HTML, and CSS**, while continuously improving my understanding of software development and modern AI-assisted development tools.
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages & Frameworks**
+
+* Python
+* Django
+* JavaScript
+* React
+* jQuery
+* HTML5
+* CSS3
+
+**Database**
+
+* SQL
+* SQLite
+
+**Tools**
+
+* Git
+* GitHub
+* VS Code
+
+---
+
+## 🚀 Projects
+
+### 🏥 SaaS Hospital Management System
+
+A Django-based SaaS application designed to manage hospital operations, including hospitals, departments, doctors, patients, appointments, medical records, prescriptions, lab reports, invoices, and subscriptions.
+
+**Tech:** Python · Django · SQL
+
+### 🎓 Scope India
+
+A Django-based educational academy website featuring student registration, authentication, email verification, student profiles, course enrollment, and dashboards.
+
+**Tech:** Python · Django · HTML · CSS · JavaScript · SQLite
+
+### 📝 Quiz Platform
+
+A Django-based quiz application with user registration, authentication, question management, quiz submission, and result generation.
+
+**Tech:** Python · Django · HTML · CSS · SQLite
+
+---
+
+## 📈 What I'm Working On
+
+* Building full-stack applications with Django
+* Improving frontend development skills
+* Developing REST APIs
+* Exploring practical applications of AI tools in software development
+* Strengthening problem-solving and software engineering fundamentals
+
+---
+
+## 🤝 Connect With Me
+
+* **LinkedIn:** [ https://www.linkedin.com/in/anandsuresh1704 ]
+* **WhatsApp:** [Contact me](https://wa.me/8547648474)
+
+---
+
+### 📫 Open to
+
+**Entry-level opportunities · Internships · Python/Django Development**
