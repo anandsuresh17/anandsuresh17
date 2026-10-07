@@ -47,13 +47,6 @@ A Django-based educational academy website featuring student registration, authe
 
 **Tech:** Python · Django · HTML · CSS · JavaScript · SQLite
 
-### 📝 Quiz Platform
-
-A Django-based quiz application with user registration, authentication, question management, quiz submission, and result generation.
-
-**Tech:** Python · Django · HTML · CSS · SQLite
-
----
 
 ## 📈 What I'm Working On
 
